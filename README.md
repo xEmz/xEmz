@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xEmz
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning bimedical research
+- 🌱 I’m currently learning bi0medical research
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me just here
 
