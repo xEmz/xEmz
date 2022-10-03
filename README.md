@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @xEmz
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning biomedical research
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me just here
+- 👀 I’m interested in: bioinformatics
+- 🌱 I’m currently learning: biomedical research and programming
+- 📫 How to reach me: private message
 
 <!---
 xEmz/xEmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
