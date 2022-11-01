@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T10:33:14.786Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.24" etag="prq4qGpDPMIljKBzRbZZ" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T10:34:19.166Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.24" etag="YLoyjD-oV-Uy4oYGWZZM" version="20.5.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1607" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1846" dy="1781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="tp_FHZZYY3tg1q9kBMh7-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#1F000F;strokeWidth=2;fillColor=#000000;fontFamily=Georgia;rounded=0;sketch=0;shadow=1;" parent="1" source="tp_FHZZYY3tg1q9kBMh7-9" target="tp_FHZZYY3tg1q9kBMh7-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="410" />
+              <mxPoint x="600" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -78,11 +78,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tp_FHZZYY3tg1q9kBMh7-11" value="Calculate LOCO predictions from data subset&lt;br&gt;&lt;br&gt;analysis:&lt;br&gt;combined&lt;br&gt;sex-stratified (males/females)" style="whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Georgia;strokeColor=#1F000F;sketch=0;shadow=1;" parent="1" vertex="1">
+        <mxCell id="tp_FHZZYY3tg1q9kBMh7-11" value="Calculate LOCO predictions from data subset&lt;br&gt;&lt;br&gt;&lt;b&gt;analysis:&lt;br&gt;&lt;/b&gt;combined&lt;br&gt;sex-stratified (males/females)" style="whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Georgia;strokeColor=#1F000F;sketch=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="340" width="100" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="tp_FHZZYY3tg1q9kBMh7-12" value="Run quantitative GWAS on chromosomes&lt;br&gt;&lt;br&gt;analysis:&lt;br&gt;combined&lt;br&gt;sex-stratified (males/females)" style="whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Georgia;strokeColor=#1F000F;sketch=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="350" width="100" height="120" as="geometry" />
+        <mxCell id="tp_FHZZYY3tg1q9kBMh7-12" value="Run quantitative GWAS on chromosomes&lt;br&gt;&lt;br&gt;&lt;b&gt;analysis:&lt;br&gt;&lt;/b&gt;combined&lt;br&gt;sex-stratified (males/females)" style="whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Georgia;strokeColor=#1F000F;sketch=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="340" width="100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tp_FHZZYY3tg1q9kBMh7-28" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#1F000F;strokeWidth=2;fillColor=#000000;fontFamily=Georgia;rounded=0;sketch=0;shadow=1;" parent="1" source="tp_FHZZYY3tg1q9kBMh7-22" target="tp_FHZZYY3tg1q9kBMh7-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
