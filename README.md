@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xEmz
+- 👋 Hi, I’m Emma
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning biomedical research and programming
 
