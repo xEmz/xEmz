@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emma
+- 👋 Hi, I’m Emma Smulders
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning biomedical research and programming
 
