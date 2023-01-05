@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Emma Smulders
+- I'm 22 years old
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning biomedical research and programming
 
