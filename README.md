@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emma Smulders
 - :birthday: My birthday is 29-07-2000
 - :earth_africa: I live in the Netherlands
-- :school: I study Biomedical Research at Avans Hogeschool
+- :school: I studied Biomedical Research at Avans Hogeschool. I currently study Bioinformatics at Vrije Universiteit.
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning biomedical research and programming
 
